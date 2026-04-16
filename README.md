@@ -121,23 +121,23 @@
   </div>
   <div class="about-body reveal">
     <p>I'm a Program Manager at <strong>In-Q-Tel</strong> &mdash; the strategic venture capital firm investing on behalf of the U.S. intelligence community &mdash; where I oversee $13M+ in post-investment funds and advise portfolio company CEOs on scaling within national security markets.</p>
-    <p>Before IQT, I spent nearly three years at <strong>Last Energy</strong>, a nuclear microreactor startup, rising from the company's first marketing hire to Vice President of International Affairs. I built and led the firm's operations across the UK, Netherlands, Poland, and Romania, including spearheading its first regulatory filing in Poland and representing the company at three <strong>IAEA</strong> working groups &mdash; resulting in Last Energy's technology being accepted into the ARIS database of advanced reactor types.</p>
-    <p>I hold a B.A. in Political Science and International Studies from the <strong>University of Michigan</strong> (Highest Distinction, Phi Beta Kappa) and was selected as an <strong>American Delegate to the G20 Youth Summit</strong> in Rio de Janeiro, advising on energy transition and sustainability policy. I speak intermediate Arabic (Levantine and Modern Standard).</p>
-    <p>I'm also a fellow in the <strong>Halo Program</strong> with District Angels, deepening my roots in DC's early-stage investing ecosystem as I build toward a full investing role.</p>
+    <p>Before IQT, I spent over three years at <strong>Last Energy</strong>, a micro nuclear reactor startup, rising from the company's first marketing hire to Vice President of International Affairs. I built and supported the firm's operations across the UK, Netherlands, Poland, and Romania, including spearheading its first regulatory filing in Poland and representing the company at IAEA working groups &mdash; resulting in Last Energy's technology being accepted into the ARIS database of advanced reactor types.</p>
+    <p>I hold a B.A. in Political Science and International Studies from the <strong>University of Michigan</strong> and was selected as an American Delegate to the <strong> 2024 G20 Youth Summit</strong> in Rio de Janeiro, advising on energy transition and sustainability policy. </p>
+    <p>I'm also a Venture Fellow in the <strong>District Angels Halo Program</strong>, deepening my roots in DC's early-stage investing ecosystem. In my capacity as a fellow, I scout and dilligence startups of interest to D.C. area angel investors.</p>
     <div class="about-tags">
       <span class="tag">Defense Tech</span>
       <span class="tag">Nuclear Energy</span>
       <span class="tag">Venture Capital</span>
       <span class="tag">International Affairs</span>
-      <span class="tag">Arabic</span>
-      <span class="tag">G20 Delegate</span>
+      <span class="tag">Dilligence</span>
+      <span class="tag">Start Ups</span>
     </div>
   </div>
 </section>
 
 <section id="experience">
   <p class="section-label reveal">Experience</p>
-  <h2 class="exp-heading reveal">Where I<br>have spent my time.</h2>
+  <h2 class="exp-heading reveal">Where I<br>spend my time.</h2>
   <div class="exp-item reveal" onclick="window.open('https://www.iqt.org','_blank')">
     <div class="exp-meta">
       <p class="exp-org"><a href="https://www.iqt.org" target="_blank" onclick="event.stopPropagation()">In-Q-Tel</a></p>
@@ -160,8 +160,8 @@
     <div>
       <h3 class="exp-role">Vice President, International Affairs</h3>
       <ul class="exp-bullets">
-        <li>Led all corporate strategy for Last Energy's international subsidiaries &mdash; UK, Netherlands, Poland, and Romania &mdash; including resource allocation, hiring, regulatory affairs, and government engagement</li>
-        <li>Spearheaded the company's first-ever regulatory filing in Poland, forming a local SPV and leading a cross-functional team across legal, technical writing, government affairs, and translation</li>
+        <li>Advised group CEO and in-country leadership on corporate strategy for Last Energy's international subsidiaries &mdash; UK, Netherlands, Poland, and Romania &mdash; including resource allocation, hiring, regulatory affairs, and government engagement</li>
+        <li>Spearheaded the company's first-ever regulatory filing in Poland, forming a local SPV and leading a cross-functional team across legal, government affairs, technical writing, and translation</li>
         <li>Grew international headcount by seven FTE including three executive placements over six months; chaired monthly C-suite country progress reviews</li>
       </ul>
     </div>
@@ -174,9 +174,9 @@
     <div>
       <h3 class="exp-role">International Government Affairs Manager</h3>
       <ul class="exp-bullets">
-        <li>Advised the CEO on narrowing first-mover markets from thirteen to four, driving significantly more efficient resource allocation based on early traction and in-country data</li>
+        <li>Advised the CEO on narrowing first-mover markets from thirteen to four, driving more efficient resource allocation based on early traction and in-country data</li>
         <li>Led Last Energy's representation at three IAEA working groups; secured acceptance into the ARIS database of advanced reactor types</li>
-        <li>Educated ~50 foreign government representatives on small modular nuclear technology, tailored to their energy security and carbon reduction priorities</li>
+        <li>Regularly engaged foreign government representatives on small modular nuclear technology, tailored to their energy security and carbon reduction priorities</li>
       </ul>
     </div>
   </div>
@@ -201,7 +201,7 @@
     <div>
       <h3 class="exp-role">Digital Marketing Analyst</h3>
       <ul class="exp-bullets">
-        <li>Created the position from scratch to support business development through thought leadership at a boutique M&amp;A bank focused on tech-enabled professional services</li>
+        <li>Created the position from scratch to support business development through thought leadership at a boutique investment bank focused on tech-enabled professional services</li>
         <li>Produced 20+ research pieces using S&amp;P Capital IQ, Pitchbook, Mergermarket, and Research 451; presented quarterly marketing updates to the board of directors</li>
       </ul>
     </div>
@@ -215,22 +215,22 @@
     <div class="focus-card">
       <p class="focus-number">01</p>
       <h3 class="focus-title">Defense &amp; National Security Tech</h3>
-      <p class="focus-desc">Deploying capital and expertise at the intersection of emerging technology and national security &mdash; from dual-use software to next-generation infrastructure. I've lived this mission at IQT, bridging the startup world with intelligence community needs.</p>
+      <p class="focus-desc">Deploying capital and expertise at the intersection of emerging technology and national security &mdash; from dual-use software to next-generation infrastructure. I've loved IQT's mission, bridging startup innovation with intelligence community needs.</p>
     </div>
     <div class="focus-card">
       <p class="focus-number">02</p>
       <h3 class="focus-title">Venture Capital &amp; Early-Stage Investing</h3>
-      <p class="focus-desc">Building fluency in deal evaluation, VC mechanics, and what it takes to back companies that matter. From managing a $13M post-investment portfolio to angel investing through District Angels' Halo Program, I'm actively building toward a full investing role.</p>
+      <p class="focus-desc">Building fluency in deal evaluation, VC mechanics, and what it takes to back companies that matter. From managing a $13M post-investment portfolio to engaging with angel investing through District Angels' Halo Program, I'm actively building toward a full investing role.</p>
     </div>
     <div class="focus-card">
       <p class="focus-number">03</p>
       <h3 class="focus-title">Nuclear &amp; Clean Energy</h3>
-      <p class="focus-desc">Advanced nuclear &mdash; particularly microreactors &mdash; as a cornerstone of energy independence and climate resilience. I spent nearly three years building Last Energy's international operations across four European markets and three regulatory frameworks.</p>
+      <p class="focus-desc">Advanced nuclear &mdash; particularly microreactors &mdash; as a cornerstone of energy independence and climate resilience. I spent over three years building Last Energy's international operations across four European markets and varied regulatory frameworks.</p>
     </div>
     <div class="focus-card">
       <p class="focus-number">04</p>
       <h3 class="focus-title">International Markets &amp; Geopolitics</h3>
-      <p class="focus-desc">How political economy, regulatory environments, and great-power dynamics shape where technology gets built and funded. Informed by experience across the UK, Netherlands, Poland, Romania, and the G20, plus fluency in Arabic.</p>
+      <p class="focus-desc">How political economy, regulatory environments, and great-power dynamics shape where technology gets built and funded. Informed by experience across the UK, Netherlands, Poland, Romania, and the G20.</p>
     </div>
   </div>
 </section>
